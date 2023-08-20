@@ -3,16 +3,16 @@ This web application is designed to showcase a curated collection of exquisite p
 
 Features
 
-    Browse Artworks: Explore a diverse range of paintings and artworks with a sleek and intuitive user interface.
+ Browse Artworks: Explore a diverse range of paintings and artworks with a sleek and intuitive user interface.
     
-    Filter by Category: Easily filter artworks by clicking on category buttons to view specific types of art, such as oil paintings.
+ Filter by Category: Easily filter artworks by clicking on category buttons to view specific types of art, such as oil paintings.
 
 Technologies Used
 
-    HTML: The foundation of the website's structure and content presentation.
+ HTML: The foundation of the website's structure and content presentation.
 
-    CSS: Styling elements to create an appealing and visually consistent design.
+ CSS: Styling elements to create an appealing and visually consistent design.
 
-    Bootstrap: Utilized for responsive layout, components, and styling enhancements.
+ Bootstrap: Utilized for responsive layout, components, and styling enhancements.
 
-    JavaScript: Adding interactivity to the website.
+ JavaScript: Adding interactivity to the website.
